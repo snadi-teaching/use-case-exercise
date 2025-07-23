@@ -2,7 +2,6 @@
 
 Exercise for fleshing out user stories into detailed use case specifications with main and alternative flows 
 
----
 
 ## Task
 
@@ -19,6 +18,4 @@ Flesh out the above user story into a detailed use case specification. Your use 
 - **Alternative Flows/Extensions**
 - **Success Guarantee/Postconditions**
 
-
----
 
